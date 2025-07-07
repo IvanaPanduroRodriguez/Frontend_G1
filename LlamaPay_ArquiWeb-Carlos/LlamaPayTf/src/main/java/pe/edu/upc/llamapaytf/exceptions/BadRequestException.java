@@ -1,8 +1,0 @@
-package pe.edu.upc.llamapaytf.exceptions;
-
-public class BadRequestException extends RuntimeException {
-    public BadRequestException(String message) {
-        super(message);
-    }
-}
-
