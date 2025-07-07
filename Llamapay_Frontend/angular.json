@@ -69,7 +69,8 @@
               "outputHashing": "all",
               "namedChunks": false,
               "aot": true,
-              "extractLicenses": true
+              "extractLicenses": true,
+              "baseHref": "/"
             },
             "development": {
               "optimization": false,
